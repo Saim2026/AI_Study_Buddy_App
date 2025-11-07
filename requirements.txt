@@ -1,0 +1,10 @@
+# Core dependencies
+streamlit
+google-genai
+google-generativeai
+PyPDF2
+fpdf2
+pytest
+
+# Additional dependencies
+requests
